@@ -132,6 +132,3 @@ energy-consumption-analytics
 ## Author
 
 **Shivani Matam**
-
-Master's in Information Technology & Management  
-Florida Atlantic University
